@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=martinpac.martinpac" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Martin+Pacheco!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=ComicSans&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Martin+Pacheco!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Arizona</h3>
@@ -58,7 +58,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Contact+me+on+LinkedIn+or+Gmail!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=ComicSans&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Contact+me+on+LinkedIn+or+Gmail!">
 </h3>
 
 <br/>
